@@ -8,3 +8,4 @@ I extracted specific elements such as article titles and saved the data into a C
 This project helped me understand HTTP requests, HTML structure, and data extraction.
 
 # Task 3: API Integration
+I created a Python script that integrates with an external API to fetch real-time data. I used the requests library to make GET requests, parsed the JSON response, and displayed the data in a readable format. I also implemented error handling to manage failed requests, network issues, and invalid responses.
